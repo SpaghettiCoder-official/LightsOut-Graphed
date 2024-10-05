@@ -8,7 +8,7 @@ following e lines: node1, node2, is_vibrating - for each line
 
 Testcase 1
 ========
-![Graph]([https://i.ibb.co/Cw87yQs/graph.png](https://i.ibb.co/nm7TS5d/graph-1.png))
+![Graph](https://i.ibb.co/nm7TS5d/graph-1.png)
 >
 >4 3
 >
