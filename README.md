@@ -14,7 +14,7 @@ see Tests.md
 
 Code
 =====
-Program class: Test program
+### Program class: Test program
 
   input_ints(): Get single line and interprete it as int values
 
@@ -23,7 +23,7 @@ Program class: Test program
   main(): call test_by_input.
 
 
-Graphed_Lights_out: The solution.
+### Graphed_Lights_out: The solution.
   
   __init__(graph): Create by graph
   
