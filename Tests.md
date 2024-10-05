@@ -7,7 +7,7 @@ first line: n, e
 following e lines: node1, node2, is_vibrating - for each line
 
 **Testcase 1**
-![Graph](https://ibb.co/j8fMYDZ)
+![Graph](https://i.ibb.co/Cw87yQs/graph.png)
 >
 >4 3
 >
